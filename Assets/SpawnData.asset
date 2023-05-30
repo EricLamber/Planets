@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edc88999e6f17cd4c9a8919801bebdf5, type: 3}
+  m_Name: SpawnData
+  m_EditorClassIdentifier: 
+  NumberOfPlanetsOnField: 10
+  Planet: {fileID: 11400000, guid: 44436a7577d70d54d9d486c27bf5410c, type: 2}
+  SpawnRadius: 1

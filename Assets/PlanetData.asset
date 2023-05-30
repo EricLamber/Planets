@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27f44decc5b21f24791b83f07256f0a6, type: 3}
+  m_Name: PlanetData
+  m_EditorClassIdentifier: 
+  m_PlanetHealthRange: {x: 5, y: 25}
+  m_PlayerPlanetStartHealth: 50
+  m_PlayerPlanetMAXHealth: 100
+  m_PlanetHealthToGrow: 1
+  m_PlanetHealthGrowCD: 1
+  m_highlightMaterial: {fileID: 2100000, guid: bbb1254aa6613094c8a017793b985a53, type: 2}
+  m_selectionMaterial: {fileID: 2100000, guid: 44d3b57fd542abd4395e6467c60cb4d8, type: 2}
+  m_PlayerMaterial: {fileID: 2100000, guid: 21560bfe302610148b640470e1aaf585, type: 2}
+  m_EnemyMaterial: {fileID: 2100000, guid: 2d362de21026f57478e2ac6dc2394f19, type: 2}
+  m_EmptyMaterial: {fileID: 2100000, guid: 1a23278e90e727c48b4c3104b28d0c3c, type: 2}
+  m_ViewPrefab: {fileID: 8259768414345571479, guid: bd05fd5984512d84ca2ad9ad7f7a43d3, type: 3}
+  m_InvadorPrefab: {fileID: 3869607018979931859, guid: 6c8c091569be8024c9aab408ec8602cb, type: 3}
